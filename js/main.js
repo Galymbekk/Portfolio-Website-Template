@@ -201,6 +201,7 @@
 	}
 	counter();
 
+	
 
 	var contentWayPoint = function() {
 		var i = 0;
@@ -274,4 +275,3 @@
 
 
 })(jQuery);
-
