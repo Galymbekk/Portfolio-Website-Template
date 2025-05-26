@@ -62,6 +62,10 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.author-title{
+  color: #fff;
+}
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
@@ -9359,7 +9363,7 @@ textarea.form-control {
       margin-bottom: 16px;
       font-weight: 500; }
       .blog-entry .text .heading a {
-        color: #fff; }
+        color: #ffbd39; font-weight:600; }
         .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
           color: #ffbd39; }
   .blog-entry .meta {
