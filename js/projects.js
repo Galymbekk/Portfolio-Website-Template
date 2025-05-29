@@ -1,5 +1,12 @@
 const projects = [
   {
+    title: "AI арқылы гүлді анықтау",
+    author:"Gabbas Islam 24/4",
+    link: "https://identifly-flowers-ai-cehh.vercel.app/",
+    image: "images/project0.png",
+    description: "Гүл немесе өсімдікті суретке түсіріп, AI-дың көмегімен толық ақпарат алу мүмкіндігі бар"
+  },
+  {
     title: "Жеке портфолио",
     author:"Abdimutalip Ayan 24/7",
     link: "https://final-react-project-red.vercel.app",
